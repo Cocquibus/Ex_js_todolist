@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(24, 24, 24);
+}
+.articles{
+    background-color: rgb(230, 230, 230);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+}
+.title{
+    margin: 15px;
+}
+.menu{
+    margin: 15px;
+}
+.creation{
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.color{
+    background-color: red;
+}
+.vert{
+    background-color: green;
+    color: white;
+}
+.masque{
+    display: none;
+}
+.grand{
+    height: 300px;
+}
